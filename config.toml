@@ -1,4 +1,4 @@
-baseURL = http://rymzx.github.io/cobahugo1/
+baseURL = "https://rymzx.github.io/cobahugo1/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme= "ananke"
