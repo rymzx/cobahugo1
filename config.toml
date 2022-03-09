@@ -1,7 +1,8 @@
-baseURL = "https://rymzx.github.io/cobahugo1/"
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme= "Coder"
+baseurl = "https://rymzx.github.io/cobahugo1/"
+title = "ROBERTHO"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
 
 paginate = 20
 
